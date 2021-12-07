@@ -1,0 +1,38 @@
+body {
+  background-color: #a5c4aa;
+  margin: 0 15%;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: white;
+  margin-top: 30px;
+}
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: white; 
+}
+div {
+width: 800px;
+padding: 100px;
+border: 5px solid gray;
+margin: 0;
+}
+a:link {
+  color: #1d3b1d;
+}
+a:visited: {
+  color: #1d3b1d;
+}
+a:hover {
+  color: #1d3b1d;
+  background-color: white;
+}
+a:active {
+  background-color: white;
+  color: #57fa57;
+}
